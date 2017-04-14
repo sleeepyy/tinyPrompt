@@ -1,0 +1,216 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-02-23 06:00:02.178638
+ERROR:root:unsupported operand type(s) for -: 'str' and 'int'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-02-24 06:00:02.332159
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-02-25 06:00:01.752055
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-02-25 23:09:33.219902
+ERROR:root:invalid literal for int() with base 10: ''
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-02-26 06:00:01.693518
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-02-27 06:00:01.932831
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-02-28 06:00:02.593174
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-01 06:00:02.765047
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-02 06:00:01.646273
+INFO:root:Start to handle temperature:
+ERROR:root:name 'loggin' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-03 06:00:02.159144
+INFO:root:Start to handle temperature:
+ERROR:root:name 'loggin' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-04 06:00:02.527145
+INFO:root:Start to handle temperature:
+ERROR:root:name 'loggin' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-05 06:00:02.363377
+INFO:root:Start to handle temperature:
+ERROR:root:name 'loggin' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-06 06:00:02.876979
+INFO:root:Start to handle temperature:
+ERROR:root:name 'loggin' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-07 06:00:02.214014
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-08 06:00:02.217649
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-09 06:00:02.049835
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-10 06:00:02.304924
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-11 06:00:02.614373
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-12 06:00:03.164499
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-13 06:00:02.020461
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-14 06:00:02.314223
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-15 06:00:02.372899
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-16 06:00:02.447132
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-17 06:00:02.072375
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-18 06:00:02.175643
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-19 06:00:03.028596
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-20 06:00:02.399957
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-21 06:00:02.451109
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-22 06:00:02.039927
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-23 06:00:02.250825
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-24 06:00:02.026773
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-25 06:00:02.801861
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-26 06:00:02.120220
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-27 06:00:02.641778
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-28 06:00:02.558557
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-29 06:00:02.760370
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-30 06:00:02.914718
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-03-31 06:00:02.826907
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-01 06:00:02.491235
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-02 06:00:02.538640
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-03 06:00:02.637150
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-04 06:00:03.145258
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-05 06:00:02.725289
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-06 06:00:02.543421
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-07 06:00:01.828136
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-08 06:00:02.567664
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-09 06:00:02.433942
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-10 06:00:01.799779
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-11 06:00:02.475776
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-12 06:00:02.006285
+INFO:root:Start to handle temperature:
+INFO:root:Don't need to send mail
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-13 06:00:02.705178
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): weather.sina.com.cn
+INFO:root:2017-04-14 06:00:02.162953
+INFO:root:Start to handle temperature:
+INFO:root:send mail
+INFO:root:Send Success.
