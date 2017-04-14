@@ -1,5 +1,5 @@
 sender = "qingacfun@163.com"
-receivers = {"hangzhou":["994819188@qq.com"], "shanghai":["570461412@qq.com"]}
+receivers = {"hangzhou":["994819188@qq.com"], "shanghai":["570461412@qq.com", "994819188@qq.com"]}
 
 host = "smtp.163.com"
 

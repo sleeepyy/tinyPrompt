@@ -37,7 +37,7 @@ def send_mail(high_temperature, low_temperature, city):
         logging.info("Failed")
 
 if __name__ == "__main__":
-    citys = ["hangzhou"]
+    citys = ["hangzhou", "shanghai"]
     last_temp = dict()
     if os.path.isfile("var.json"):
         logging.info(str(datetime.now())+"begin to loads file")
