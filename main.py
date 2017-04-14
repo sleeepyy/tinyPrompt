@@ -15,10 +15,11 @@ def send_mail(high_temperature, low_temperature):
     content = "Temperature changes a lot.\n"
     content += "Today temperature:" + str(high_temperature) + "to" +str(low_temperature) +"."
     sender = config.sender
+    print(sender)
     receivers = config.receivers
 
     message = MIMEText(content, "plain")
-    message["From"] = Header("qingacfun@163.com")
+    message["From"] = Header(sender)
     message["To"] = Header("994819188@qq.com")
     message["Subject"] = Header("weather prompt", "utf-8")
 
