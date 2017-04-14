@@ -13,7 +13,7 @@ logging.basicConfig(filename="log.log", level=logging.INFO)
 
 
 def send_mail(high_temperature, low_temperature, city):
-    content = "Temperature in " +city+"  changes a lot compared to yesterday.\n"
+    content = "Temperature in " + city +" changes a lot compared to yesterday.\n"
     content += "Today temperature is:" + str(high_temperature) + "to" +str(low_temperature) +"."
     content += "Powered by yh."
     sender = config.sender
